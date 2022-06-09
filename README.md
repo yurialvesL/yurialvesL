@@ -4,6 +4,7 @@
 
 - 🎓 Curso Ciência da Computação
 - 📖 Estou estudando Python 🐍
+- 📖 Estou estudando ADVPL
 - 🕹️ Futuro Gamedev!
 
 <div align="center">

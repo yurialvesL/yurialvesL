@@ -3,9 +3,9 @@
 
 
 - 🎓 Curso Ciência da Computação
-- 📖 Estou estudando Python 🐍
-- 📖 Estou estudando ADVPL
-- 🕹️ Futuro Gamedev!
+- 📖 Python 🐍
+- 📖 ADVPL
+
 
 <div align="center">
   <a href="https://github.com/yurialvesL">

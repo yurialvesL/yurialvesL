@@ -1,8 +1,8 @@
-### Olá! Eu sou o Yuri Alves 👋
+### Hello! I am Yuri Alves 👋
 
 
 
-- 🎓 Curso Ciência da Computação
+- 🎓 Computer Science Course
 - 📖 Python 🐍
 - 📖 ADVPL
 

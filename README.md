@@ -13,7 +13,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurialvesL&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yuri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -22,6 +22,7 @@
   <img align="center" alt="Yuri-ADVPL" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png" />  
   <img align="right" alt="Logo-Twitch" height="150" style="border-radius:50px;"                  src="https://cdn.discordapp.com/attachments/794007422451580979/958121434159382578/logo_oficial1_1.png">
 </div>
+
   
   ##
   
@@ -32,6 +33,7 @@
  <a href="https://discord.gg/Ew6uYpp7b7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:yurisoad2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuri-alves-lima-247821192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.codewars.com/users/yurialvesL" target="_blank"><img src="https://www.codewars.com/users/yurialvesL/badges/large" target="_blank"></a> 
  
   ![Snake animation](https://github.com/yurialvesL/yurialvesL/blob/output/github-contribution-grid-snake.svg)
  

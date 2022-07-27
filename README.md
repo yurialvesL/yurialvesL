@@ -2,7 +2,7 @@
 
 
 
-- 🎓 Computer Science Course
+- 🎓 Bachelor of Computer Science 
 - 📖 Python 🐍
 
 

@@ -3,7 +3,6 @@
 
 
 - 🎓 Bachelor of Computer Science 
-- 📖 Python 🐍
 
 
 
@@ -19,7 +18,6 @@
   <img align="center" alt="Yuri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yuri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Yuri-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Yuri-ADVPL" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png" />  
   <img align="right" alt="Logo-Twitch" height="150" style="border-radius:50px;"                  src="https://cdn.discordapp.com/attachments/794007422451580979/958121434159382578/logo_oficial1_1.png">
 </div>
 
